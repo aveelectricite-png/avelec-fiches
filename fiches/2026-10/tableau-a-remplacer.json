@@ -1,0 +1,8 @@
+{"kicker":"Conseil","title":"Votre tableau électrique a *fait son temps* ?","intro":"5 signes qui ne trompent pas.",
+"items":[
+{"t":"Des fusibles à broche ou en porcelaine","d":"Une technologie d'un autre âge, qui ne protège plus correctement l'installation."},
+{"t":"Pas d'interrupteur différentiel","d":"C'est lui qui protège les personnes en cas de défaut. Le RGIE l'impose, avec un 30 mA pour la salle de bain."},
+{"t":"Ça chauffe, ça grésille ou ça sent le brûlé","d":"Coupez le circuit concerné et faites vérifier sans attendre."},
+{"t":"Ça disjoncte souvent","d":"Circuit surchargé ou défaut d'isolement : il faut trouver la cause."},
+{"t":"Un tableau sur planche, sans capot","d":"Des parties sous tension accessibles à la main : danger."}],
+"cta":"Un doute ? Envoyez-moi une photo de votre tableau, je vous dis ce qu'il en est."}
