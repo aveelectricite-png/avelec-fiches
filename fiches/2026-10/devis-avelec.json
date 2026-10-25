@@ -1,0 +1,28 @@
+{
+ "kicker": "Transparence",
+ "title": "Ce que contient *un devis* Ave'Lec",
+ "intro": "Un devis clair, c'est la base de la confiance. Voici ce que vous y trouvez :",
+ "items": [
+  {
+   "t": "Le matériel, poste par poste",
+   "d": "Chaque fourniture est détaillée : vous savez ce qui sera posé."
+  },
+  {
+   "t": "La main-d'œuvre, à part",
+   "d": "Le temps de travail est chiffré séparément du matériel."
+  },
+  {
+   "t": "Le bon taux de TVA",
+   "d": "6 % ou 21 % selon votre situation, vérifié et indiqué noir sur blanc."
+  },
+  {
+   "t": "Un délai d'intervention",
+   "d": "Vous savez quand je peux venir et combien de temps ça prendra."
+  },
+  {
+   "t": "Pas de mauvaise surprise",
+   "d": "Si un imprévu change le prix, je vous en parle avant de continuer."
+  }
+ ],
+ "cta": "Un projet ? Demandez-moi votre devis gratuit, sans engagement."
+}

@@ -1,0 +1,24 @@
+{
+ "kicker": "Bon à savoir",
+ "title": "Travail en noir : *le vrai prix* à payer",
+ "intro": "Moins cher sur le moment, mais beaucoup de risques en cas de souci.",
+ "items": [
+  {
+   "t": "Pas d'assurance",
+   "d": "En cas d'accident ou de sinistre, personne pour couvrir les dégâts."
+  },
+  {
+   "t": "Pas de garantie",
+   "d": "Pas de facture, pas de recours si le travail est mal fait."
+  },
+  {
+   "t": "Un contrôle qui coince",
+   "d": "Une installation non conforme peut être refusée au contrôle RGIE."
+  },
+  {
+   "t": "Pas de TVA à 6 %",
+   "d": "Sans facture, pas de taux réduit pour votre rénovation."
+  }
+ ],
+ "cta": "Un travail déclaré, facturé et garanti : demandez votre devis gratuit."
+}
