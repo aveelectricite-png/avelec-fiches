@@ -8,4 +8,4 @@
 | 2026-10-22 | Schéma unifilaire et plan de position | fiches/2026-10/schema-unifilaire.png |
 | 2026-10-18 | Hiver : chauffages d'appoint et risque de surcharge | fiches/2026-10/chauffage-appoint.png |
 | 2026-10-25 | Ce que contient un devis Ave'Lec | fiches/2026-10/devis-avelec.png |
-| 2026-10-29 10:00 (programmé) | Pourquoi éviter le travail en noir | fiches/2026-10/travail-en-noir.png |
+| 2026-10-29 10:00 (publié) | Pourquoi éviter le travail en noir | fiches/2026-10/travail-en-noir.png |
