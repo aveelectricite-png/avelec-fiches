@@ -9,3 +9,4 @@
 | 2026-10-18 | Hiver : chauffages d'appoint et risque de surcharge | fiches/2026-10/chauffage-appoint.png |
 | 2026-10-25 | Ce que contient un devis Ave'Lec | fiches/2026-10/devis-avelec.png |
 | 2026-10-29 10:00 (publié) | Pourquoi éviter le travail en noir | fiches/2026-10/travail-en-noir.png |
+| 2026-11-03 19:00 (programmé) | Chantier Wasmuel : motorisation portail CAME + HomeLink | chantiers/2026-10/portail-1..5.jpg |
