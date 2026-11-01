@@ -1,0 +1,8 @@
+{"kicker":"Conseil","title":"Nouvelle cuisine : des *circuits dédiés*","intro":"Avant de poser les meubles, pensez à l'électricité :",
+"items":[
+{"t":"La taque sur son propre circuit","d":"Un circuit à elle seule, avec la section de câble adaptée à sa puissance."},
+{"t":"Le four à part","d":"Un circuit séparé évite que le disjoncteur saute en plein repas."},
+{"t":"Lave-vaisselle sous 30 mA","d":"Un circuit dédié, protégé par un différentiel 30 mA."},
+{"t":"Le frigo, à part aussi","d":"Conseillé : une autre panne ne coupe pas votre frigo."},
+{"t":"Assez de prises au plan de travail","d":"Bien placées, à l'écart de l'évier : fini les multiprises."}],
+"cta":"Un projet de cuisine ? Envoyez-moi votre plan, je prévois les circuits."}
