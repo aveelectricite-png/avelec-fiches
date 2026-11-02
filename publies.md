@@ -10,3 +10,5 @@
 | 2026-10-25 | Ce que contient un devis Ave'Lec | fiches/2026-10/devis-avelec.png |
 | 2026-10-29 10:00 (publié) | Pourquoi éviter le travail en noir | fiches/2026-10/travail-en-noir.png |
 | 2026-11-03 19:00 (programmé) | Chantier Wasmuel : motorisation portail CAME + HomeLink | chantiers/2026-10/portail-1..5.jpg |
+| 2026-11-02 (publié) | Nouvelle cuisine : les circuits dédiés | fiches/2026-11/cuisine-circuits.png |
+| 2026-11-05 10:00 (programmé) | Jardin et extérieur : prises et éclairage étanches (IP) | fiches/2026-11/exterieur-ip.png |
