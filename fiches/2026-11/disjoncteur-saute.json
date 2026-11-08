@@ -1,0 +1,8 @@
+{"kicker":"Dépannage","title":"Le disjoncteur saute : *trouver la cause*","intro":"Avant de réarmer encore et encore, faites ces vérifications.",
+"items":[
+{"t":"Repérez ce qui a sauté","d":"Le différentiel (tout coupe) ou un seul disjoncteur (un circuit)."},
+{"t":"Un seul circuit ?","d":"Souvent trop d'appareils en même temps. Répartissez-les sur d'autres prises."},
+{"t":"Le différentiel ?","d":"Débranchez tout, réarmez, puis rebranchez un appareil à la fois."},
+{"t":"Il ressaute à vide","d":"Rien de branché et ça saute encore : n'insistez pas, c'est un défaut."},
+{"t":"Odeur de brûlé, prise chaude","d":"Coupez le circuit et faites vérifier sans attendre."}],
+"cta":"Ça saute toujours ? Appelez-moi, je trouve la panne pour vous."}
