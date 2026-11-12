@@ -13,4 +13,4 @@
 | 2026-11-02 (publié) | Nouvelle cuisine : les circuits dédiés | fiches/2026-11/cuisine-circuits.png |
 | 2026-11-05 10:00 (publié) | Jardin et extérieur : prises et éclairage étanches (IP) | fiches/2026-11/exterieur-ip.png |
 | 2026-11-08 (publié) | Le disjoncteur saute : comment trouver la cause | fiches/2026-11/disjoncteur-saute.png |
-| 2026-11-12 10:00 (programmé) | Présentation : qui je suis | fiches/2026-11/presentation.png |
+| 2026-11-12 10:00 (publié) | Présentation : qui je suis | fiches/2026-11/presentation.png |
