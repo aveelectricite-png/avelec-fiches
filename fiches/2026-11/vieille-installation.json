@@ -1,0 +1,8 @@
+{"kicker":"Bon à savoir","title":"Vieille installation : *ce qui coince* au contrôle","intro":"Les points que je rencontre le plus souvent dans les maisons anciennes :",
+"items":[
+{"t":"Des circuits sans fil de terre","d":"Les anciens câbles n'ont souvent pas de conducteur de protection."},
+{"t":"Des prises sans terre","d":"Sans broche de terre reliée, un appareil en défaut peut électrocuter."},
+{"t":"Pas de différentiel","d":"Il coupe le courant en cas de fuite : c'est la protection des personnes."},
+{"t":"Un tableau vétuste","d":"Vieux fusibles, pas de capot, protections mal adaptées aux câbles."},
+{"t":"Pas de schémas","d":"Sans schéma unifilaire ni plan de position, le contrôle ne peut aboutir."}],
+"cta":"Un contrôle en vue ? Je passe faire le point avant la visite de l'organisme."}
