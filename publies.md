@@ -14,3 +14,5 @@
 | 2026-11-05 10:00 (publié) | Jardin et extérieur : prises et éclairage étanches (IP) | fiches/2026-11/exterieur-ip.png |
 | 2026-11-08 (publié) | Le disjoncteur saute : comment trouver la cause | fiches/2026-11/disjoncteur-saute.png |
 | 2026-11-12 10:00 (publié) | Présentation : qui je suis | fiches/2026-11/presentation.png |
+| 2026-11-16 (publié) | 5 signes que votre tableau électrique est à remplacer | fiches/2026-11/tableau-a-remplacer.png |
+| 2026-11-19 10:00 (programmé) | Vieille installation : les points qui posent problème au contrôle | fiches/2026-11/vieille-installation.png |
